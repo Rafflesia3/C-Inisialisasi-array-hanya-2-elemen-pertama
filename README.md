@@ -1,0 +1,1 @@
+# C-Inisialisasi-array-hanya-2-elemen-pertama
